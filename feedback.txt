@@ -8,7 +8,9 @@ If you are really serious of solving this take this http://math.sfsu.edu/federic
 
 3. Learn Graph theory and Advanced Graph theory courses in NPTEL.
 
-4. I need to learn Partitions this is getting tricky for me.	
+4. I need to learn Partitions this is getting tricky for me.
+
+5. Go through thos video tutorial series, contains short and sweet java concurrency tutorials. https://www.youtube.com/watch?v=WH5UvQJizH0&list=PLhfHPmPYPPRk6yMrcbfafFGSbE2EPK_A6
 
 
 
